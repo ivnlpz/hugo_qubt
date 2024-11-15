@@ -3,10 +3,10 @@
 type: misc
 
 # change these
-jobTitle: Blogger
+jobTitle: Freelance Fun Haver
 name: ivnlpz
 bio: true
 icon: ":coffee:"
 ---
 
-Add your Bio here!:+1:
+We out here.
