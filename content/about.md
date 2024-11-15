@@ -3,7 +3,7 @@
 type: misc
 
 # change these
-jobTitle: Freelance Fun Haver
+jobTitle: Freelance Web Dev and Creative 
 name: ivnlpz
 bio: true
 icon: ":coffee:"

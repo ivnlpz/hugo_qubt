@@ -6,19 +6,19 @@ author:
   name: ivnlpz
   image: author.png
   greeting: "Available for work :construction_worker:"
-  icon: ":milk_glass:"
+  icon: ":taco:"
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/ivnlpz/hugo_qubt
+  - github: https://github.com/ivnlpz/
   # - link: https://github.com/ivnlpz/hugo_qubt#readme
   # - website: 
   # - x-twitter: 
   # - mastodon: 
-  # - linkedin: 
+  #- linkedin: https://www.linkedin.com/in/ivnlpz/
   # - instagram: 
   # - reddit: 
   # - telegram: 
