@@ -2,15 +2,14 @@
 ## CHANGE THESE
 ############################
 
-baseURL: 'https://chrede88.github.io/qubt'
-title: 'Qubt Theme'
+baseURL: "https://ivnlpz.github.io/hugo_qubt"
+title: hugo_qubt
 
 ############################
 ## MISC
 ############################
 
 enableEmoji: true
-disableKinds: ['taxonomy', 'term']
-languageCode: 'en-us'
-
-
+disableKinds: ["taxonomy", "term"]
+languageCode: "en-us"
+enableRobotsTXT: true
