@@ -9,4 +9,4 @@ bio: true
 icon: ":coffee:"
 ---
 
-We out here.
+Guy living in Japan and spending a lot of time on hobbies related to Linux, open source software, video editing, photography, cycling, memes, etc. 
