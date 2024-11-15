@@ -1,6 +1,6 @@
 # hugo_qubt
 
-ivanlopez.info blog component using HUGO and the qubt theme
+ivanlopez.info blog component using [HUGO](https://gohugo.io/) and the [qubt](https://themes.gohugo.io/themes/qubt/)
 
 ## Configuration
 
